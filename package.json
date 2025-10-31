@@ -1,0 +1,10 @@
+{
+  "name": "darknexus-bot",
+  "version": "1.0.0",
+  "main": "base.js",
+  "type": "module",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^5.0.0",
+    "pino": "^8.0.0"
+  }
+}
